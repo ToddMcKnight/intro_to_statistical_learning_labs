@@ -12,8 +12,8 @@ The goal of this repository is to build a solid, hands-on foundation in statisti
 
 | Chapter | Topic | Lab |
 |:-------:|-------|:---:|
-| 2  | Statistical Learning                         | ⬜ |
-| 3  | Linear Regression                            | ⬜ |
+| 2  | Statistical Learning                         | ✅ |
+| 3  | Linear Regression                            | 🚧 |
 | 4  | Classification                               | ⬜ |
 | 5  | Resampling Methods                           | ⬜ |
 | 6  | Linear Model Selection and Regularization    | ⬜ |
